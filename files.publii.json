@@ -1,0 +1,332 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "ab75cae8c0a76b11143c88b03484410f"
+    },
+    {
+        "path": "about.html",
+        "type": "file",
+        "md5": "4f891776fce6840311bfd3f96c79a901"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "1c66b3bd6a4e65e8bd3b0aea8f73aa14"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "d43d2f7d9371f0cdd77625621254d1dd"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/isotope.pkgd.min.js",
+        "type": "file",
+        "md5": "2afcff647ed260006faa71c8e779e8d4"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9f1b21d608ebeba9417b52ee3ec6917"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "4268bfae06e330d473c424d50f09abda"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "151e31ba62789782fcd457b5b884ba8a"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "2813b916db5705fbd8cc3024ce107375"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/www-308455",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/www-308455/index.html",
+        "type": "file",
+        "md5": "5e43170d9e7a13ee9be554edc38b2436"
+    },
+    {
+        "path": "boost-your-odds-essential-pre-game-prep-rituals-to-elevate-betting-performance.html",
+        "type": "file",
+        "md5": "8351b517919c64cf109ae5205deca36a"
+    },
+    {
+        "path": "contact.html",
+        "type": "file",
+        "md5": "22afe79eccb94f7cb7372ca06c101ec0"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "33a55274a3dc195ff647330663b808ef"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "1e6ee9562fc46a564771a73f5e0df069"
+    },
+    {
+        "path": "how-to-create-a-winning-strategy-before-you-bet-essential-tips-for-success.html",
+        "type": "file",
+        "md5": "1bc08d0dc72fddf6deadb980cfeb7228"
+    },
+    {
+        "path": "how-to-stay-emotionally-balanced-when-winning-or-losing-proven-strategies-for-resilience.html",
+        "type": "file",
+        "md5": "4bbb81528473c5f80ea2d38a43009f10"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "0de995a1ad45cbfbc1d92a457d75cc5d"
+    },
+    {
+        "path": "master-betting-success-tracking-your-bets-with-data-as-your-secret-weapon.html",
+        "type": "file",
+        "md5": "97a660e425e90c9bd8a66ca17f07ebfb"
+    },
+    {
+        "path": "master-mind-over-money-achieve-financial-success-with-mental-discipline-strategies.html",
+        "type": "file",
+        "md5": "a60ce6b7d133ff5f01a24de8e14655b4"
+    },
+    {
+        "path": "mastering-the-power-of-pattern-recognition-in-high-stakes-gaming-a-winning-strategy.html",
+        "type": "file",
+        "md5": "f79cc3e6c20b8b921384bbfbfb9c1012"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/authors/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/authors/1/default.png",
+        "type": "file",
+        "md5": "14bb5140f11f980a8e324fb855b6daf3"
+    },
+    {
+        "path": "media/authors/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/authors/1/responsive/default-2xl.png",
+        "type": "file",
+        "md5": "28dd4caeceae843eab60f56a5e6d7319"
+    },
+    {
+        "path": "/media/authors/1/responsive/default-lg.png",
+        "type": "file",
+        "md5": "28dd4caeceae843eab60f56a5e6d7319"
+    },
+    {
+        "path": "/media/authors/1/responsive/default-md.png",
+        "type": "file",
+        "md5": "28dd4caeceae843eab60f56a5e6d7319"
+    },
+    {
+        "path": "/media/authors/1/responsive/default-sm.png",
+        "type": "file",
+        "md5": "9476a5269205f610d925634a23526f8f"
+    },
+    {
+        "path": "/media/authors/1/responsive/default-xl.png",
+        "type": "file",
+        "md5": "28dd4caeceae843eab60f56a5e6d7319"
+    },
+    {
+        "path": "/media/authors/1/responsive/default-xs.png",
+        "type": "file",
+        "md5": "0c247ccc134c05365e0cd837a9b62953"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/cover-2.png",
+        "type": "file",
+        "md5": "5271303641d766bdc3ce80b105753e98"
+    },
+    {
+        "path": "/media/website/cover.png",
+        "type": "file",
+        "md5": "5271303641d766bdc3ce80b105753e98"
+    },
+    {
+        "path": "/media/website/favicon.ico",
+        "type": "file",
+        "md5": "aa392c13feb886c01bb85fba6b10effc"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/cover-2-2xl.png",
+        "type": "file",
+        "md5": "5738512154978aab112214f8b66ccb6d"
+    },
+    {
+        "path": "/media/website/responsive/cover-2-lg.png",
+        "type": "file",
+        "md5": "86368995ff507c2dad87a496bf8403d9"
+    },
+    {
+        "path": "/media/website/responsive/cover-2-md.png",
+        "type": "file",
+        "md5": "396ec79d6d74ecd71efd5d3a208cc380"
+    },
+    {
+        "path": "/media/website/responsive/cover-2-sm.png",
+        "type": "file",
+        "md5": "7230c79cf6c5e5f4ee9393ba5e1a46d2"
+    },
+    {
+        "path": "/media/website/responsive/cover-2-xl.png",
+        "type": "file",
+        "md5": "dce27abb577fe12000bebcfa4afe9ede"
+    },
+    {
+        "path": "/media/website/responsive/cover-2-xs.png",
+        "type": "file",
+        "md5": "16ce83b4e61f72facedde29dbb9d7f9e"
+    },
+    {
+        "path": "/media/website/responsive/cover-2xl.png",
+        "type": "file",
+        "md5": "5738512154978aab112214f8b66ccb6d"
+    },
+    {
+        "path": "/media/website/responsive/cover-lg.png",
+        "type": "file",
+        "md5": "86368995ff507c2dad87a496bf8403d9"
+    },
+    {
+        "path": "/media/website/responsive/cover-md.png",
+        "type": "file",
+        "md5": "396ec79d6d74ecd71efd5d3a208cc380"
+    },
+    {
+        "path": "/media/website/responsive/cover-sm.png",
+        "type": "file",
+        "md5": "7230c79cf6c5e5f4ee9393ba5e1a46d2"
+    },
+    {
+        "path": "/media/website/responsive/cover-xl.png",
+        "type": "file",
+        "md5": "dce27abb577fe12000bebcfa4afe9ede"
+    },
+    {
+        "path": "/media/website/responsive/cover-xs.png",
+        "type": "file",
+        "md5": "16ce83b4e61f72facedde29dbb9d7f9e"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "ec737e910fc6d4603fa2b31ef17e0975"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "c464eec089be7126842e65585ed8b6b8"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+    },
+    {
+        "path": "smart-bankroll-tactics-that-keep-you-in-the-game-master-your-gaming-finances.html",
+        "type": "file",
+        "md5": "66e6bf65e739430f1bfaba1aa91bea77"
+    },
+    {
+        "path": "stacking-the-odds-master-betting-analysis-like-a-pro-for-winning-strategies.html",
+        "type": "file",
+        "md5": "0aa554d18124b308b1457f2604494a5c"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "85c89fbaed034033d6b064981838e471"
+    },
+    {
+        "path": "unlocking-success-the-science-of-a-hot-streak-and-how-to-ride-the-momentum.html",
+        "type": "file",
+        "md5": "cda648e98055674f265af3e97aa30f12"
+    },
+    {
+        "path": "when-to-walk-away-key-signs-youre-experiencing-a-cold-streak.html",
+        "type": "file",
+        "md5": "e571113c220e12c01ed00b12f2605475"
+    }
+]
